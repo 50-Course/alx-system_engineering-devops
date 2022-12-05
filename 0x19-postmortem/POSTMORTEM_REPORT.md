@@ -2,6 +2,7 @@
 
 _By Eri Adeodu._
 
+![](https://media3.giphy.com/media/JsE9qckiYyVClQ5bY2/giphy.gif)
 
 _Around the earlier hours of August, on the ALX-t/Udacity Cloud Development Nanodegree Program. I was notified the outage in my travel website deployment. I would be providing the incident report today, its nature and details of the outage._
 
